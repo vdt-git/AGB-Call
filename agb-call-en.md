@@ -1,4 +1,4 @@
-*March 2025, Version 1.2*
+*August 2025, Version 1.3*
 
 Bildungswerk VDT GmbH (BIW), represented by its managing director Harald Prieß, and Verband Deutscher Tonmeister e.V. (VDT) jointly operate the Call for Contributions website for VDT events such as the Tonmeistertagung, ICSA, seminars and similar. This website is only available to registered users at https://tonmeistertagung.com/myvdt/ (hereinafter the "Contribution Website").
 As the VDT partner for service and logistics, BIW is entrusted with organising the events and is the registered user's contracting party in said capacity.
@@ -27,11 +27,12 @@ You may withdraw your contribution within two weeks without providing a reason b
 Withdrawal after this period is not possible, as this would jeopardize planning for the event program.
 
 ## § 7 Data protection
-1. The database of the Contribution Website stores and processes user information in compliance with the applicable provisions of the German Data Protection Act (BDSG) and the German Telemedia Act (TMG). Personal data is only collected to enable event planning.
-2. The user agrees that their personal data may be collected, processed and used to enable event planning.
-3. The Contribution Website will not disclose personal data to third parties. An exception is made for the program planning team, the session moderator and other registered users who are also contributing to event planning. In these cases, the scope of the transmitted data is limited to the minimum required.
-4. The user is entitled to request information on their stored information and to request correction, blocking and—after the event has ended—deletion thereof. Furthermore, the user is entitled to request information on the status of their stored data by e-mail at: programm@tonmeisterverband.org. Insofar as there is a statutory or contractual obligation to retain the data, said data will be blocked instead of deleted.
-5. The user's personal information will be kept confidential and in particular not disclosed for the purpose of advertising or market and opinion research.
+1. User data is stored and processed in the database of the Contribution Website in compliance with the relevant provisions of the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG). Personal data is requested for the purpose of event planning. Some of this data is published for the purpose of promoting and conducting the event.
+2. Users consent to their personal data being collected, processed, and used for the purpose of event planning. Users consent to their name being published on websites and in event apps if their submission has been included in the event program.
+3. Users agree that a short personal profile (CV) and/or profile photo may be published on public websites and in event apps if this data has been provided by the user in the submission portal.
+4. Apart from the aforementioned exceptions, the Contribution Website does not pass on any personal data to third parties. Exceptions to this are the program planning team, the session moderators, and other registered users who also contribute to the event planning. In these cases, however, the scope of the data transmitted is limited to the minimum necessary.
+5. The user has the right to information and the right to correction, blocking, and — after the event has ended — deletion of their stored data. They also have the right to request information about the status of their stored data at any time by sending an email to: programm@tonmeisterverband.org. If deletion is prevented by legal or contractual retention obligations, the data will be blocked.
+6. The user's personal data will be treated confidentially. In particular, it will not be passed on for advertising purposes outside the specific event or for any kind of market or opinion research.
 
 ## § 8 Amendments to the Terms and Conditions
 1. The Contribution Website reserves the right to amend these Terms and Conditions at any time giving at least two weeks’ notice. The amendment will be announced by publishing the amended Terms and Conditions and the date they will enter into force in the Internet at the website https://tonmeistertagung.com/myvdt/
