@@ -19,10 +19,10 @@ Das BIW ist der Service- und Logistikpartner des VDT und mit der Abwicklung der 
 1. Autor\*innen von Vorträgen (Talks) Postern, Workshops, Tutorials sowie Roundtable-Chairs können Manuskripte einreichen. Diese werden nach der Tagung im Tagungsband veröffentlicht und zum Download bereitgestellt. Ein Manuskript muss dem vorgegebenen Template-Format entsprechen. Es darf keine Produktwerbung enthalten sein. Für Produktbeiträge werden keine Manuskripte in den Tagungsband übernommen.
 2. Autor\*innen von Reviewed Papers (in englischer Sprache) verpflichten sich, das Manuskript nach den speziellen Review-Vorgaben vorab für den Review-Prozess bereitzustellen. Zur tmt33 (November 2025) werden keine Reviewed Papers angeboten.
 
-## § 5 Richtlinien für Beitragsanmeldungen
+## § 5 Richtlinien für Beitrags&shy;anmeldungen
 Auf der Contribution-Seite stellen wir für jede Beitragsart passende Richtlinien zur Einsicht zur Verfügung. Sie definieren die jeweils geltenden Rahmenbedingungen zur Beitragsanmeldung.
 
-## § 6 Widerrufsbelehrung 
+## § 6 Widerrufs&shy;belehrung 
 Sie können Ihren Beitrag innerhalb von zwei Wochen ohne Angabe von Gründen in Textform per E-Mail an programm@tonmeisterverband.org widerrufen. Die Frist beginnt mit der Anmeldung des Beitrags. Der Widerruf ist gültig, sobald Sie eine Bestätigungsmail von uns erhalten haben. Ein späterer Widerruf ist nicht möglich, da er die Planung des Veranstaltungsprogramms gefährdet.
 
 ## § 7 Datenschutz
@@ -33,10 +33,10 @@ Sie können Ihren Beitrag innerhalb von zwei Wochen ohne Angabe von Gründen in 
 5. Der Nutzer hat ein Recht auf Auskunft sowie ein Recht auf Berichtigung, Sperrung und – nach Abschluss der Veranstaltung – auf Löschung seiner gespeicherten Daten. Er hat ferner das Recht, jederzeit Auskunft über den Stand seiner gespeicherten Daten zu verlangen unter der E-Mail: programm@tonmeisterverband.org. Sofern einer Löschung gesetzliche oder vertragliche Aufbewahrungspflichten entgegenstehen, werden die Daten gesperrt.
 6. Die personenbezogenen Daten des Nutzers werden vertraulich behandelt. Sie werden insbesondere nicht zum Zwecke der Werbung außerhalb der betreffenden Veranstaltung oder jeglicher Art von Markt- und Meinungsforschung weitergegeben.
 
-## § 8 Änderung der allgemeinen Geschäftsbestimmungen
+## § 8 Änderung der allgemeinen Geschäfts&shy;bedingungen
 1. Die Contribution-Seite behält sich vor, diese Allgemeinen Geschäftsbedingungen jederzeit unter Wahrung einer angemessenen Ankündigungsfrist von mindestens zwei Wochen zu ändern. Die Ankündigung erfolgt durch Veröffentlichung der geänderten Allgemeinen Geschäftsbedingungen unter Angabe des Zeitpunkts des Inkrafttretens im Internet auf der Website https://tonmeistertagung.com/myvdt/.
 2. Widerspricht der Nutzer nicht innerhalb von zwei Wochen nach Veröffentlichung, so gelten die abgeänderten Geschäftsbedingungen als angenommen.
 
-## § 9 Schlussbestimmungen
+## § 9 Schluss&shy;bestimmungen
 1. Es gilt das Recht der Bundesrepublik Deutschland.
 2. Ist der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist Gerichtsstand für alle Streitigkeiten aus diesem Vertrag Baden-Baden, sofern nicht ein ausschließlicher Gerichtsstand gegeben ist.
